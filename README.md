@@ -1,4 +1,6 @@
-## Hi👋, I'm fatahrahimi330
+## o Hi, I'm @TechnologyHell
+## o I'm interested in Graphics Design and Gaming
+## o Reach me out at https://github.com/fatahrahimi330/
 
 <!--
 **fatahrahimi330/fatahrahimi330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
