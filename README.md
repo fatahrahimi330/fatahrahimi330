@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven and passionate software engineering student with a focus on backend<br>development. Equipped with strong skills in Node.js, dedicated to building efficient<br>systems and contributing to impactful projects.
+ML/AI engineering student pursuing a Master’s in Data Science, with a Bachelor’s in Software Engineering. Strong backend development skills and a passion for building scalable, data-driven, and intelligent systems.
 
 
 ## 🌐 Socials:
